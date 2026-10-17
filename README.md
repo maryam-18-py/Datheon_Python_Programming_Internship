@@ -91,7 +91,7 @@ The Investment Portfolio Tracker helps users manage their stock investments by e
 
 ## 📝 Note
 
-Stock prices are entered manually. The program does not currently fetch live market prices automatically.
+Stock prices are entered manually.The program does not currently fetch live market prices automatically.
 
 ## 👩‍💻 Author
 
